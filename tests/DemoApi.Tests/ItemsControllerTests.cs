@@ -2,6 +2,9 @@ using DemoApi.Controllers;
 using DemoApi.Data;
 using DemoApi.Models;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace DemoApi.Tests;
